@@ -1,4 +1,4 @@
 # dashboardbemind
 
 
-- [Bemind - Dashboard](https://eimercooney.github.io/dashboardbemind/index.html)
+- [Bemind - Dashboard](http://eimercooney.github.io/dashboardbemind/index.html)
